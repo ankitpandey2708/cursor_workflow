@@ -26,10 +26,15 @@ Cosmetic Changes
 DO it in this order. DO it atleast twice
 
 check for any data being stored in the browser. delete after confirming with me. 
+
 check for any data being exposed in the browser . eg : api keys etc.
+
 Delete unused code from files. if entire file need to be deleted , give a single command for multiple such files wrt cmd.
+
 check for code duplication.
+
 Delete unused code from files. if entire file need to be deleted , give a single command for multiple such files wrt cmd.
+
 check for Code refactoring.
 ************
 for linting issues :
