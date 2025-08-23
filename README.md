@@ -17,9 +17,12 @@ Updating cursortasks.md
 https://gist.github.com/kleneway/07432638aeaf6210316ebbc32dfbe643 
 ************
 Once all functionality built Use rubric (https://youtu.be/5Lu7k2SShNw?t=748)
-
 create a plan using UX rubric :  https://gist.github.com/kleneway/10b3848d60553e794ada863d3393544e
 cherrypick most imp things to build from plan.
+
+OR
+
+follow this guidelines : https://github.com/ankitpandey2708/dhbvn-web/blob/main/design.md 
 *****************
 Cosmetic Changes
 ************************
