@@ -1,4 +1,3 @@
-Create npm project 
 npx create-next-app@latest my-next-app --typescript --eslint --tailwind --src-dir --app --import-alias "@/*"
 
 **************
@@ -21,6 +20,8 @@ create a plan using UX rubric :  https://gist.github.com/kleneway/10b3848d60553e
 cherrypick most imp things to build from plan.
 
 OR
+
+'Analyze my existing project, then override all CSS and visual styling to match the uploaded design.md specifications while preserving all functionality and HTML structure'
 
 follow this guidelines : https://github.com/ankitpandey2708/dhbvn-web/blob/main/design.md 
 *****************
