@@ -3,23 +3,18 @@
 Use the following command to initialize the Next.js project with all required configurations:
 
 ```bash
-npx create-next-app@latest my-next-app --typescript --eslint --tailwind --src-dir --app --import-alias "@/*"
+npx create-next-app@latest my-app --yes
 ```
 
 ## 📝 Cursor AI Resources
 
 These resources are essential for configuring and utilizing the Cursor editor effectively for strong reasoning and task management.
 
-### **Cursor Rules & Configuration**
-
-  - **`.cursorrules` File:**
-    [https://gist.github.com/kleneway/8b1e0e33a21d3bb936b3ded84af314e9](https://gist.github.com/kleneway/8b1e0e33a21d3bb936b3ded84af314e9)
-
 ### **Planning & Task Management**
 
-  - **BRD/PRD Prompts for Reasoning Model & Creating `.cursor-tasks.md`:**
+  - **BRD/PRD Prompts for Reasoning Model & Creating `tasks.md`:**
     [https://chatgpt.com/share/67c5ee78-0b94-800d-b467-ceecdbf6ce70](https://chatgpt.com/share/67c5ee78-0b94-800d-b467-ceecdbf6ce70)
-  - **Updating `cursortasks.md`:**
+  - **Updating `tasks.md`:**
     [https://gist.github.com/kleneway/07432638aeaf6210316ebbc32dfbe643](https://gist.github.com/kleneway/07432638aeaf6210316ebbc32dfbe643)
 
 -----
