@@ -15,7 +15,11 @@ These resources are essential for configuring and utilizing the Cursor editor ef
   - **BRD/PRD Prompts for Reasoning Model & Creating `tasks.md`:**
     [https://chatgpt.com/share/67c5ee78-0b94-800d-b467-ceecdbf6ce70](https://chatgpt.com/share/67c5ee78-0b94-800d-b467-ceecdbf6ce70)
   - **Updating `tasks.md`:**
-    [https://gist.github.com/kleneway/07432638aeaf6210316ebbc32dfbe643](https://gist.github.com/kleneway/07432638aeaf6210316ebbc32dfbe643)
+    ```bash
+    Go through each story and Find the next story to work on. Review each unfinished story and correct issues if any. Then proceed to create or edit files to complete each story.     After you complete all the tasks in the story, update the file to check off any completed story.
+    ```
+
+    
 
 -----
 
