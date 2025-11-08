@@ -72,11 +72,9 @@ Alternatively, use this prompt to enforce a specific design aesthetic:
 
 ### **2. Code Quality & Optimization**
 
-1.  **Run Knip:** Execute the following command to find unused files, dependencies, and exports.
+1.  **Run Knip:** Execute the following command to find unused files, dependencies, and exports but ask LLM to investigate further if these are real issues or not
     ```bash
     npm run knip
     ```
-2.  **Delete Unused Code :** If entire files need to be deleted, consolidate the list and provide a **single command** to delete multiple files at once (e.g., `rm file1.ts file2.tsx`).
-3.  **Check for Code Duplication.**
-4.  *Repeat Step 2.*
-5.  **Check for Code Refactoring:** Identify and implement improvements for code structure, readability, and maintainability.
+2.  **Check for Code Duplication.**
+3.  **Check for Code Refactoring:** Identify and implement improvements for code structure, readability, and maintainability.
