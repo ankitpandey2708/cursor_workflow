@@ -1,3 +1,13 @@
+1. no accessibility features
+2. no testing tasks
+3. no deployment tasks. focus only on local development
+4. focus only on design and functionlaity tasks
+5. no bloat in the code
+6. performace issue : network calls
+7. improve prompts for creating prd/brd/tasklist. prrof read each after genration. make sure thery are legible and mece. make sure the task make sense when moving from one task to other
+8. always usea  strong coding/planning model
+
+
 ## 🚀 Project Setup Command
 
 Use the following command to initialize the Next.js project with all required configurations:
